@@ -3,19 +3,16 @@ layout: about
 permalink: /
 profile:
   align: right
-  image: profile.png
+  image: profile.jpg
 published: true
 ---
 
-[Gradfolio](https://github.com/jitinnair1/gradfolio){:target="_blank"} is a responsive, dark-mode ready Jekyll theme designed keeping academia in mind. The easiest way to install the theme is to fork it using GitHub. Check the README file for [instructions](https://github.com/jitinnair1/gradfolio#installation){:target="_blank"}.
+Im in love with Java ☕, the Spring ecosystem 🍃, and everything around microservices architecture, Docker 🐋, and automation.
 
-If you want to use this space to write your biography here, edit the `index.md` file. You can put a picture in, too. Rename your picture to `profile.png` and put it in the `assets/images/` folder.
+As a result, if it is meaningful, I try to automate or at least include a simple CI pipeline in most of my repositories. Feel free to browse my [GitHub](https://github.com/Nikolas-Charalambidis).
 
-The social-icons footer can be used to link profiles from GitHub, OrcID and ReasearchGate aprart form the usual Twitter, LinkedIn and Facebook. You can add your user ID in the `_config.yml` file to link your accounts.
+Although backend and integrations still hold a special place in my heart, I'd like to learn more about React or Angular.
 
-PS: If you liked the theme, do star it on GitHub!
+Asking and answering questions on the StackOverflow platform helped me to advance. All of my contributions are listed on my [profile](https://stackoverflow.com/users/3764965/nikolas-charalambidis?tab=profile).
 
-### Also, check out:
-
-- [autoCV](https://github.com/jitinnair1/autocv) - a LaTeX template that builds and deploys the CV using GitHub Actions, so you will always have a ready link for your latest CV
-- [Tail](https://github.com/jitinnair1/tail) - a minimal, quick-setup template for a blog
+I'm looking for both new opportunities and an open-source project that is well-maintained and well-documented that I can contribute to in my free time. Contact me through my [Facebook](https://www.facebook.com/nikolas.charalambidis) or [LinkedIn](https://www.linkedin.com/in/nikolas-charalambidis) accounts.

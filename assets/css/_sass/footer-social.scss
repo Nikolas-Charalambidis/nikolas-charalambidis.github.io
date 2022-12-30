@@ -24,12 +24,6 @@
   margin-bottom: 0.25rem;
 }
 
-.rounded-social-buttons .social-button:hover, .rounded-social-buttons .social-button:focus {
-  -webkit-transform: rotate(360deg);
-      -ms-transform: rotate(360deg);
-          transform: rotate(360deg);
-}
-
 .rounded-social-buttons .fa-twitter,
 .fa-facebook-f,
 .fa-linkedin,
@@ -90,7 +84,7 @@
 .rounded-social-buttons .social-button.email:hover, .rounded-social-buttons .social-button.email:focus {
   color: #60c17d;
   background: #fefefe;
-  border-color: #000000;
+  border-color: #60c17d;
 }
 
 .rounded-social-buttons .social-button.orcid {
@@ -145,5 +139,5 @@
 .rounded-social-buttons .social-button.stackoverflow:hover, .rounded-social-buttons .social-button.stackoverflow:focus {
   color: #f48024;
   background: #fefefe;
-  border-color: #5dd1b0;
+  border-color: #f48024;
 }
