@@ -27,11 +27,10 @@ main {
 h1,h2,h3,h4,h5,h6 {
   font-family: "Lato", "Helvetica Neue", Helvetica, sans-serif;
   font-weight: bold;
-  line-height: 1.8;
+  line-height: 1.2;
   margin: 0;
   text-transform: inherit;
 }
-
 
 a {
   color: $brand-color;
@@ -45,8 +44,6 @@ a {
 
   }
 }
-
-
 
 p a {
   color: $text-color;
@@ -73,7 +70,6 @@ p a {
     color: $text-color-dark;
   }
 }
-
 
 figure {
   margin: 0;
@@ -113,7 +109,6 @@ blockquote {
 
 .headline, .post-headline {
   font-size: 2em;
-  margin-bottom: -0.4em;
 
   @include media-query($on-palm) {
     font-size: 2em;
