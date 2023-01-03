@@ -6,6 +6,7 @@ profile:
   image: profile.jpg
 published: true
 ---
+Hi, I’m Nikolas. Nice to meet you.
 
 I'm in love with Java ☕, the Spring ecosystem 🍃, and everything around microservices architecture, Docker 🐋, and automation.
 
