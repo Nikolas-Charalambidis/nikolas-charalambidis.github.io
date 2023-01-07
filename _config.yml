@@ -27,7 +27,9 @@ markdown: kramdown
 
 # Tracker
 analytics:
-  measurement_id: G-N2VS12CVCD
+  google:
+    measurement_id: G-N2VS12CVCD
+    anonymize_ip: true
 
 # optimization -> compress.html
 compress_html:
