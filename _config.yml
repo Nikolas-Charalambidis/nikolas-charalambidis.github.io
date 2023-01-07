@@ -26,7 +26,8 @@ highlighter: rouge
 markdown: kramdown
 
 # Tracker
-analytics: G-N2VS12CVCD
+analytics:
+  measurement_id: G-N2VS12CVCD
 
 # optimization -> compress.html
 compress_html:
