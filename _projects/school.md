@@ -8,14 +8,14 @@ description: We all were students once.
 
 {{ post.description }}
 
-<i class="fab fa-github" style='font-size:30px'></i> [Sportify](https://github.com/Nikolas-Charalambidis/sportify)
+<span class="fab fa-github" style='font-size:30px'></span> [Sportify](https://github.com/Nikolas-Charalambidis/sportify)
 
-<i class="fab fa-github" style='font-size:30px'></i> [Matastav](https://github.com/Nikolas-Charalambidis/matastav)
+<span class="fab fa-github" style='font-size:30px'></span> [Matastav](https://github.com/Nikolas-Charalambidis/matastav)
 
-<i class="fab fa-github" style='font-size:30px'></i> [Cypher SOAP](https://github.com/Nikolas-Charalambidis/cypher-soap)
+<span class="fab fa-github" style='font-size:30px'></span> [Cypher SOAP](https://github.com/Nikolas-Charalambidis/cypher-soap)
 
-<i class="fab fa-github" style='font-size:30px'></i> [ČSFD Automated tests](https://github.com/Nikolas-Charalambidis/csfd-automated-tests)
+<span class="fab fa-github" style='font-size:30px'></span> [ČSFD Automated tests](https://github.com/Nikolas-Charalambidis/csfd-automated-tests)
 
-<i class="fab fa-github" style='font-size:30px'></i> [Weather](https://github.com/Nikolas-Charalambidis/weather)
+<span class="fab fa-github" style='font-size:30px'></span> [Weather](https://github.com/Nikolas-Charalambidis/weather)
 
-<i class="fab fa-github" style='font-size:30px'></i> [Football League](https://github.com/Nikolas-Charalambidis/football-league)
+<span class="fab fa-github" style='font-size:30px'></span> [Football League](https://github.com/Nikolas-Charalambidis/football-league)
