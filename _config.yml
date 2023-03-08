@@ -1,5 +1,7 @@
 title: Nikolas Charalambidis
-description: ""
+author: Nikolas Charalambidis
+tagline: Personal programmer's website
+description: Personal programmer's website with projects, articles and ideas about Java, automation and software development
 
 baseurl: "/"
 url: "https://nikolas-charalambidis.github.io"

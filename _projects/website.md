@@ -1,6 +1,8 @@
 ---
-layout: post
 title: Website
+tagline: Website
+description: Website
+layout: post
 description: Learn how this website was created.
 ---
 

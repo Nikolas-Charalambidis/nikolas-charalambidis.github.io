@@ -1,5 +1,7 @@
 ---
-title:
+title: Nikolas Charalambidis
+tagline: Projects
+description: Projects
 layout: default
 permalink: /projects/
 published: true

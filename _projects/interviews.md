@@ -1,6 +1,8 @@
 ---
-layout: post
 title: Interviews
+tagline: Interviews
+description: Interviews
+layout: post
 description: A bunch of small repositories that represent projects I had to code to be considered for an interview.
 ---
 

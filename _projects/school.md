@@ -1,6 +1,8 @@
 ---
-layout: post
 title: School
+tagline: School
+description: School
+layout: post
 description: We all were students once.
 ---
 
