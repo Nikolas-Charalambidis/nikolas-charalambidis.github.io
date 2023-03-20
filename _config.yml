@@ -4,7 +4,7 @@ tagline: Personal programmer's website
 description: Personal programmer's website with projects, articles and ideas about Java, automation and software development
 
 baseurl: "/"
-url: "https://nikolas-charalambidis.github.io"
+url: "https://nikolas-charalambidis.com"
 email: nikolas.charalambidis@gmail.com
 
 # Pagination

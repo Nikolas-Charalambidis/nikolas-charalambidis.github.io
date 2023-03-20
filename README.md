@@ -1,4 +1,4 @@
-# [nikolas-charalambidis.github.io](https://nikolas-charalambidis.github.io/)
+# [nikolas-charalambidis.com](https://nikolas-charalambidis.com/)
 
 ## Localhost development
 
