@@ -9,14 +9,6 @@
     border-radius: 50%;
 }
 
-.left {
-    float: left;
-}
-
-.right {
-    float: right;
-}
-
 // adjust tile sizes on smaller screens
 @include media-query($on-phone) {
   @media screen and (max-width: $on-phone){

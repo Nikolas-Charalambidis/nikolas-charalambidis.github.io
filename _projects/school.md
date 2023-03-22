@@ -1,9 +1,8 @@
 ---
 title: School
 tagline: School
-description: School
 layout: post
-description: We all were students once.
+description: My lame school projects.
 ---
 
 {{ post.description }}

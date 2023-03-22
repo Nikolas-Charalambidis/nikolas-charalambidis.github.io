@@ -118,4 +118,12 @@
   }
 }
 
-//Based on: https://codepen.io/GeorgePark/pen/vdqYom
+img {
+  max-width: 100%;
+  border-style: solid;
+  border-color: $light-gray;
+  margin-left: 1rem;
+  margin-right: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 6px;
+}

@@ -49,9 +49,9 @@ collections:
     output: true
     permalink: /projects/:name/
     order:
-      - website.md
       - interviews.md
       - school.md
+      - websites.md
 
 sass:
   sass_dir: /assets/css/_sass
