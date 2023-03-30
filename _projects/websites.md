@@ -54,10 +54,14 @@ ___
        src="{{ page.website.trackmasters-cz.image.name | prepend: '/assets/images/websites/' | relative_url }}">
 </a>
 
-To be written soon...
+A website about the yearly track cycling cup in Prague. Track cycling is an interesting but dangerous sport itself: I kept riding occasionally until I slided off and burned my butt. 
+The one who took me there as well as who requested the website was the same person: My younger and only brother. 
+It prompted me automatically charge him at least double. 
 
-<!--
-Jekyll template: <span class="fab fa-github" style='font-size:30px'></span> [Gradfolio](https://github.com/jitinnair1/gradfolio), see the live [demo](https://jitinnair1.github.io/gradfolio)
+The website was created with React.js as I wanted to practice this [framework/library](https://www.freecodecamp.org/news/is-react-a-library-or-a-framework/) on a real project as I only encountered with it in the university.
+I wish I knew Jekyll and other static site generators beforehand for numerous reasons:
+GitHub Pages are not particularly friendly with React Router and my CSS skills were, are and will always be disastrous.
 
-Footer icons: <span class="fab fa-github" style='font-size:30px'></span> [Modern Resume](https://github.com/sproogen/modern-resume-theme), see the live [demo](https://sproogen.github.io/modern-resume-theme)
--->
+I spent some good quality time with exploring and configuring Webpack and making the bloatware plugins, dependencies and configurations talk to each other.
+Finally, I made a website with a fairly simple custom content management that my not-tech-savvy brother can edit with ease though GitHub.
+Nevertheless, I am glad I was able to finish a React project from scratch by myself.

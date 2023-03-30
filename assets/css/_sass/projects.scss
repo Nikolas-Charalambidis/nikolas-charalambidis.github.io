@@ -126,4 +126,13 @@ img {
   margin-right: 1rem;
   margin-bottom: 1rem;
   border-radius: 6px;
+  border-width: 1px;
+}
+
+img.left {
+  margin-left: 0;
+}
+
+img.right {
+    margin-right: 0;
 }
