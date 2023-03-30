@@ -14,11 +14,15 @@ website:
       align: right
 
 ---
-Aside from my simple Jekyll website, I've created a couple more.
+
+My website is built on top of [Gradfolio](https://github.com/jitinnair1/gradfolio) Jekyll template with color and styles adjustments including the footer icons inspired by [Modern Resume](https://github.com/sproogen/modern-resume-theme).
+Aside from my simple Jekyll website, I’ve created a couple more.
 
 ---
 
-## [amita-kullaphan.com](https://amita-kullaphan.com)
+## [amita-kullaphan.com](https://amita-kullaphan.com) 
+
+<span class="fab fa-github" style='font-size:30px'></span> <a href="https://github.com/amita-kullaphan/amita-kullaphan.github.io">Source</a>
 
 <a href="https://www.amita-kullaphan.com">
   <img class="{{ page.website.amita-kullaphan-com.image.align }}" alt="amita-kullaphan.com" width="34%"
@@ -41,8 +45,9 @@ I am particularly proud of the custom icons I drew in Inkscape you can find in t
 
 ___
 
-
 ## [trackmasters.cz](https://trackmasters.cz)
+
+<span class="fab fa-github" style='font-size:30px'></span> <a href="https://github.com/trackmasters/trackmasters.github.io">Source</a>
 
 <a href="https://www.trackmasters.cz">
   <img class="{{ page.website.trackmasters-cz.image.align }}" alt="trackmasters.cz" width="34%"
