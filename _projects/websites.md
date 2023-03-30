@@ -54,14 +54,14 @@ ___
        src="{{ page.website.trackmasters-cz.image.name | prepend: '/assets/images/websites/' | relative_url }}">
 </a>
 
-A website about the yearly track cycling cup in Prague. Track cycling is an interesting but dangerous sport itself: I kept riding occasionally until I slided off and burned my butt. 
-The one who took me there as well as who requested the website was the same person: My younger and only brother. 
+A website about the yearly track cycling cup in Prague. Track cycling is an interesting but dangerous sport itself: I occasionally rode until I slid off and burned my butt. 
+The one who took me there, and who requested the website, was the same person: My younger and only brother. 
 It prompted me automatically charge him at least double. 
 
-The website was created with React.js as I wanted to practice this [framework/library](https://www.freecodecamp.org/news/is-react-a-library-or-a-framework/) on a real project as I only encountered with it in the university.
-I wish I knew Jekyll and other static site generators beforehand for numerous reasons:
-GitHub Pages are not particularly friendly with React Router and my CSS skills were, are and will always be disastrous.
+The website was created with React.js because I wanted to practice this [framework/library](https://www.freecodecamp.org/news/is-react-a-library-or-a-framework/) on a real-life project as I only encountered it at the university.
+I wish I had known Jekyll and other static site generators beforehand for numerous reasons:
+GitHub Pages are not particularly friendly with React Router, and my CSS skills were, are, and will always be disastrous.
 
-I spent some good quality time with exploring and configuring Webpack and making the bloatware plugins, dependencies and configurations talk to each other.
-Finally, I made a website with a fairly simple custom content management that my not-tech-savvy brother can edit with ease though GitHub.
-Nevertheless, I am glad I was able to finish a React project from scratch by myself.
+I spent some good quality time exploring and configuring Webpack and making the bloatware plugins, dependencies, and configurations talk to each other.
+Finally, I made a website with reasonably simple custom content management that my not-tech-savvy brother can easily contribute through GitHub.
+Nevertheless, I am glad I could finish a React project from scratch by myself.
