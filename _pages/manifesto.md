@@ -34,6 +34,8 @@ Notable mentions are [ISO 8601](https://en.wikipedia.org/?title=ISO_8601) format
 - [World Press Freedom Index](https://rsf.org/en/index): I am myself lucky to be born and to reside in a very free country. 
 I am aware others are not which drives me to not stay ignorant.
 
+- [Global Peace Index](https://www.visionofhumanity.org/maps/#): Again, I find myself lucky to come from a peaceful country.
+
 Disclaimer: This purpose of section is not meant to fully take a side with the non-profit organizations (NPO).
 I rather appreciate methodical approach and attempt to represent negative characteristics by country that are seemingly impossible to quantify and rank.
 Though I am aware the imperfections of the indices, we have to admit they provide a clear picture.
