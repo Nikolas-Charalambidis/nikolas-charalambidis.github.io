@@ -16,14 +16,14 @@ The list is not definitive, and I add more as I go.
 
 ## Manifestos
 
-- [https://datatracker.ietf.org/doc/html/rfc2119](https://datatracker.ietf.org/doc/html/rfc2119): All requirements and technical documentation MUST be clear and unambiguous. RFC 2119 offers a helpful hand.
+- [https://datatracker.ietf.org/doc/html/rfc2119](https://datatracker.ietf.org/doc/html/rfc2119/): All requirements and technical documentation MUST be clear and unambiguous. RFC 2119 offers a helpful hand.
 
-- [https://semver.org/](https://semver.org/): Everybody should follow Semantic versioning or is a monster who loves mess. Period.
+- [https://semver.org](https://semver.org/): Everybody should follow Semantic versioning or is a monster who loves mess. Period.
 
-- [https://utf8everywhere.org](https://utf8everywhere.org): The [UTF-8](https://en.wikipedia.org/wiki/UTF-8) encoding should be the default choice of encoding.
-Notable mentions are [ISO 8601](https://en.wikipedia.org/?title=ISO_8601) format and decimal point (ex. `12.34`) as a [decimal separator](https://en.wikipedia.org/wiki/Decimal_separator#Countries_using_Arabic_numerals_with_decimal_comma).
+- [https://utf8everywhere.org](https://utf8everywhere.org/): The [UTF-8](https://en.wikipedia.org/wiki/UTF-8) encoding should be the default choice of encoding.
+Notable mentions are [ISO 8601](https://en.wikipedia.org/?title=ISO_8601/) format and decimal point (ex. `12.34`) as a [decimal separator](https://en.wikipedia.org/wiki/Decimal_separator#Countries_using_Arabic_numerals_with_decimal_comma).
 
-- [https://nohello.net](https://nohello.net): Don't say only "hello", ask your question. Alternatively, there is [https://nohello.club](https://nohello.club).
+- [https://nohello.net](https://nohello.net/): Don't say only "hello", ask your question. Alternatively, there is [https://nohello.club](https://nohello.club).
 
 ## Projects
 
