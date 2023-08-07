@@ -16,6 +16,10 @@ The list is not definitive, and I add more as I go.
 
 ## Manifestos
 
+- [https://datatracker.ietf.org/doc/html/rfc2119](https://datatracker.ietf.org/doc/html/rfc2119): All requirements and technical documentation MUST be clear and unambiguous. RFC 2119 offers a helpful hand.
+
+- [https://semver.org/](https://semver.org/): Everybody should follow Semantic versioning or is a monster who loves mess. Period.
+
 - [https://utf8everywhere.org](https://utf8everywhere.org): The [UTF-8](https://en.wikipedia.org/wiki/UTF-8) encoding should be the default choice of encoding.
 Notable mentions are [ISO 8601](https://en.wikipedia.org/?title=ISO_8601) format and decimal point (ex. `12.34`) as a [decimal separator](https://en.wikipedia.org/wiki/Decimal_separator#Countries_using_Arabic_numerals_with_decimal_comma).
 
@@ -25,9 +29,16 @@ Notable mentions are [ISO 8601](https://en.wikipedia.org/?title=ISO_8601) format
 
 - [https://1.1.1.1](https://1.1.1.1/): The world’s fastest DNS resolver, which is enough to bypass most network provider restrictions without VPN (some developing countries ban certain news). Though I encourage using VPN anyway.
 
-- [https://ground.news](https://ground.news): Though unbiased media don't exist, we can see the whole picture as long as we identify the political bias, factuality, and ownership.
+___
 
-## Indices
+## Honorable mentions
+
+The following mentions are below the line and outside the IT scope.
+Some of them are backed by non-profit organizations (NPO) which I don't want to be associated with.
+I mention them because I rather appreciate the methodical approach and attempt to represent negative characteristics by country that are seemingly impossible to quantify and rank.
+Though I am aware of the imperfections of the indices, we have to admit they provide a clear picture.
+
+- [https://ground.news](https://ground.news): Though unbiased media don't exist, we can see the whole picture as long as we identify the political bias, factuality, and ownership.
 
 - [Corruption Perceptions Index](https://www.transparency.org/en/cpi): Though everybody knows corruption is bad, what do we do?
 
@@ -35,7 +46,3 @@ Notable mentions are [ISO 8601](https://en.wikipedia.org/?title=ISO_8601) format
 I am aware others are not which drives me to not stay ignorant.
 
 - [Global Peace Index](https://www.visionofhumanity.org/maps/#): Again, I find myself lucky to come from a peaceful country.
-
-Disclaimer: This purpose of section is not meant to fully take a side with the non-profit organizations (NPO).
-I rather appreciate methodical approach and attempt to represent negative characteristics by country that are seemingly impossible to quantify and rank.
-Though I am aware the imperfections of the indices, we have to admit they provide a clear picture.
